@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @swhale-dev
-- 👀 I’m interested in coding to possibly change from current career as an electrical engineer designing buildings.
+- 👀 I’m interested in smart home development using Home Assistant (HA).
 - 🌱 I’m currently learning Python and Java Script.
 - 💞️ I’m looking to collaborate on coding projects.
 - 📫 How to reach me:  swhale-dev@gmail.com
